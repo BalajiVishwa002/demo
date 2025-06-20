@@ -1,0 +1,1 @@
+This is the newly created file that have checked for the git control
